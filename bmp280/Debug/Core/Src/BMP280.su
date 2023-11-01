@@ -1,0 +1,12 @@
+../Core/Src/BMP280.c:84:6:Osrs_t_config	40	static
+../Core/Src/BMP280.c:126:6:Osrs_p_config	40	static
+../Core/Src/BMP280.c:170:6:Mode_config	40	static
+../Core/Src/BMP280.c:197:6:config_F4_register	56	static
+../Core/Src/BMP280.c:217:6:config_t_sb	40	static
+../Core/Src/BMP280.c:266:6:config_filter	40	static
+../Core/Src/BMP280.c:303:6:spi3w_en	32	static
+../Core/Src/BMP280.c:317:6:config_F5	48	static
+../Core/Src/BMP280.c:333:6:read_calliberation_data_280	56	static
+../Core/Src/BMP280.c:357:9:ReadRowData	48	static
+../Core/Src/BMP280.c:367:7:readTemperature	24	static
+../Core/Src/BMP280.c:378:6:init_bmp	8	static
